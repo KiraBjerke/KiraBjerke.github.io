@@ -1,0 +1,16 @@
+body {
+    background-color:white;
+}
+ul {
+    background-color:rgb(247, 241, 241);
+}
+.container-fluid {
+    background-color:rgb(247, 241, 241); 
+}
+.form-group {
+    color: black;
+}
+.form-control {
+    background-color: white;
+    border-color: gainsboro;
+}
